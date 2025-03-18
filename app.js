@@ -62,10 +62,5 @@ for (let i = 0; i < participante.length; i++) {
 }
 }
 
-/*
-    let amigoSorteado = participante[Math.floor(Math.random() * participante.length)];
-    let resultado = document.getElementById("resultado");
-    resultado.innerHTML = `El amigo sorteado es: ${amigoSorteado}`;
-*/
 
 
